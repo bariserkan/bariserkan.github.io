@@ -1,0 +1,6 @@
+{
+  "words": [
+    { "enword": "hello", "trword": "merhaba", "pronun": "he-lo" },
+    { "enword": "world", "trword": "dünya", "pronun": "wörld" }
+  ]
+}
